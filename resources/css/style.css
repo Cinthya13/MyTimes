@@ -1,0 +1,25 @@
+.header {
+  font-family: Verdana;
+  font-weight: bold;
+  font-size: 14px;
+  border-bottom:1px solid black;
+  display:flex;
+  align-items: center;
+}
+h1 {
+  color: MediumAquamarine;
+  font-size: 14px;
+  position: relative;
+  left: 35px;
+}
+.header img {
+  position: relative;
+  left: 30px;
+  align-self: flex-start;
+}
+.header li {
+  display: inline-block;
+  position: relative;
+  left: 900px;
+  padding: 10px;
+}
